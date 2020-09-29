@@ -1,7 +1,7 @@
 ### Hello there, I'm Kevin 👋
 
 - 🌱 I’m currently learning cyber security at BINUS Universtiy, will graduate on 2022
-  - I like to participate in CTFs, hacking around at hackthebox ([my profile](https://www.hackthebox.eu/home/users/profile/90510)), tryhackme, and also wargames.
+  - I like to participate in CTFs, hacking around at hackthebox ([my profile](https://www.hackthebox.eu/home/users/profile/90510)), tryhackme ([my profile](https://tryhackme.com/p/doubleu)), and also wargames.
   - You can find all my writeups over at my portfolio
 
 ### Portfolio
