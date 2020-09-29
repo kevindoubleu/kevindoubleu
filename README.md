@@ -10,6 +10,8 @@ My portfolio is over at [kevindoubleu.github.io](https://kevindoubleu.github.io/
 
 It's filled with writeups, projects, certificates, and a [CV](https://kevindoubleu.github.io/cv)!
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 <!-- ### Badges -->
 
 ![HackTheBox](http://www.hackthebox.eu/badge/image/90510)
