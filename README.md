@@ -10,7 +10,7 @@ My portfolio is over at [kevindoubleu.github.io](https://kevindoubleu.github.io/
 
 It's filled with writeups, projects, certificates, and a [CV](https://kevindoubleu.github.io/cv)!
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kevindoubleu)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kevindoubleu&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- ### Badges -->
 
