@@ -10,11 +10,11 @@ My portfolio is over at [kevindoubleu.github.io](https://kevindoubleu.github.io/
 
 It's filled with writeups, projects, certificates, and a [CV](https://kevindoubleu.github.io/cv)!
 
-### Badges
+<!-- ### Badges -->
 
 ![HackTheBox](http://www.hackthebox.eu/badge/image/90510)
 
-![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/doubleu.png)
+<!-- ![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/doubleu.png) -->
 
 <!--
 **kevindoubleu/kevindoubleu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
