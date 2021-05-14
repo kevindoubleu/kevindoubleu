@@ -3,6 +3,8 @@
 - I’m currently learning cyber security at BINUS Universtiy, will graduate on 2022
   - I like to participate in CTFs, hacking around at hackthebox ([my profile](https://www.hackthebox.eu/home/users/profile/90510)), tryhackme ([my profile](https://tryhackme.com/p/doubleu)), and also wargames.
   - You can find all my writeups over at my portfolio
+  - I like to practice my coding skills over at codewars ([my profile)(https://www.codewars.com/users/kevindoubleu/))
+  - Enthusiastic in Software Engineering and Information Security!
 
 ## Portfolio
 
