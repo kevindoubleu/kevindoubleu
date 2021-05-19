@@ -38,6 +38,8 @@ It's filled with writeups, projects, certificates, and a [CV](https://kevindoubl
 
 ![HackTheBox](http://www.hackthebox.eu/badge/image/90510)
 
+![Codewars](https://www.codewars.com/users/kevindoubleu/badges/large)
+
 <!-- ![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/doubleu.png) -->
 
 <!--
