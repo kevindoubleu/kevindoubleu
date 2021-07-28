@@ -3,7 +3,7 @@
 - I’m currently learning cyber security at BINUS Universtiy, will graduate on 2022
   - I like to participate in CTFs, hacking around at hackthebox ([my profile](https://www.hackthebox.eu/home/users/profile/90510)), tryhackme ([my profile](https://tryhackme.com/p/doubleu)), and also wargames.
   - You can find all my writeups over at my portfolio
-  - I like to practice my coding skills over at codewars ([my profile)(https://www.codewars.com/users/kevindoubleu/))
+  - I like to practice my coding skills over at codewars ([my profile](https://www.codewars.com/users/kevindoubleu/))
   - Enthusiastic in Software Engineering and Information Security!
 
 ## Portfolio
@@ -14,15 +14,17 @@ It's filled with writeups, projects, certificates, and a [CV](https://kevindoubl
 
 ## Stuff I Use
 
-![](https://img.shields.io/badge/-C-grey?style=flat-square&logo=c)
-![](https://img.shields.io/badge/-Python-grey?style=flat-square&logoColor=white&logo=python)
-![](https://img.shields.io/badge/-Java-grey?style=flat-square&logoColor=white&logo=java)
-![](https://img.shields.io/badge/-HTML-grey?style=flat-square&logo=html5)
-![](https://img.shields.io/badge/-CSS-grey?style=flat-square&logo=css3)
-![](https://img.shields.io/badge/-JS-grey?style=flat-square&logo=javascript)
-![](https://img.shields.io/badge/-PHP-grey?style=flat-square&logoColor=white&logo=php)
-![](https://img.shields.io/badge/-MySQL-grey?style=flat-square&logoColor=white&logo=mysql)
-![](https://img.shields.io/badge/-Bash-grey?style=flat-square&logoColor=white&logo=gnu-bash)
+![golang](https://img.shields.io/badge/-Golang-grey?style=flat-square&logo=go)
+![c](https://img.shields.io/badge/-C-grey?style=flat-square&logo=c)
+![python](https://img.shields.io/badge/-Python-grey?style=flat-square&logoColor=white&logo=python)
+![java](https://img.shields.io/badge/-Java-grey?style=flat-square&logoColor=white&logo=java)
+![html](https://img.shields.io/badge/-HTML-grey?style=flat-square&logo=html5)
+![css](https://img.shields.io/badge/-CSS-grey?style=flat-square&logo=css3)
+![js](https://img.shields.io/badge/-JS-grey?style=flat-square&logo=javascript)
+![php](https://img.shields.io/badge/-PHP-grey?style=flat-square&logoColor=white&logo=php)
+![mysql](https://img.shields.io/badge/-MySQL-grey?style=flat-square&logoColor=white&logo=mysql)
+![postgresql](https://img.shields.io/badge/-PostgresQL-grey?style=flat-square&logo=postgresql)
+![bash](https://img.shields.io/badge/-Bash-grey?style=flat-square&logoColor=white&logo=gnu-bash)
 
 
 ![](https://img.shields.io/badge/Jekyll-Liquid-grey?style=flat-square&logoColor=white&logo=jekyll)
