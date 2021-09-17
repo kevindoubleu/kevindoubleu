@@ -1,10 +1,12 @@
 ## Hello there, I'm Kevin 👋
 
-- I’m currently learning cyber security at BINUS Universtiy, will graduate on 2022
-  - I like to practice my coding skills over at codewars ([my profile](https://www.codewars.com/users/kevindoubleu/))
-  - I also like to participate in CTFs, hacking around at hackthebox ([my profile](https://www.hackthebox.eu/home/users/profile/90510)) and tryhackme ([my profile](https://tryhackme.com/p/doubleu))
-  - You can find all my writeups over at my portfolio
-  - Enthusiastic in Software Engineering and Information Security!
+I’m currently learning computer science at BINUS Universtiy, will graduate on 2022, meanwhile I:
+- Practice my coding skills over at [codeforces](https://codeforces.com/profile/handlebarz), [codewars](https://www.codewars.com/users/kevindoubleu/), and leetcode,
+- Make [software engineering projects and write about them](https://kevindoubleu.github.io/projects),
+- Participate in CTFs, hacking around at [hackthebox](https://www.hackthebox.eu/home/users/profile/90510) and [tryhackme](https://tryhackme.com/p/doubleu).
+- You can find all my writings and writeups over at [my portfolio](https://kevindoubleu.github.io/)!
+
+TL;DR: Enthusiastic in **Software Engineering** and **Information Security**!
 
 ## Portfolio
 
@@ -26,11 +28,12 @@ It's filled with writeups, projects, certificates, and a [CV](https://kevindoubl
 ![postgresql](https://img.shields.io/badge/-PostgresQL-grey?style=flat-square&logo=postgresql)
 ![bash](https://img.shields.io/badge/-Bash-grey?style=flat-square&logoColor=white&logo=gnu-bash)
 
+![jekyll](https://img.shields.io/badge/Jekyll-Liquid-grey?style=flat-square&logoColor=white&logo=jekyll)
+![flask](https://img.shields.io/badge/-Flask-grey?style=flat-square&logoColor=white&logo=flask)
+![django](https://img.shields.io/badge/Django-grey?style=flat-square&logo=django)
+![node](https://img.shields.io/badge/Nodedotjs-grey?style=flat-square&logoColor=white&logo=nodedotjs)
 
-![](https://img.shields.io/badge/Jekyll-Liquid-grey?style=flat-square&logoColor=white&logo=jekyll)
-![](https://img.shields.io/badge/-Flask-grey?style=flat-square&logoColor=white&logo=flask)
-
-![](https://img.shields.io/badge/-Linux-grey?style=flat-square&logoColor=white&logo=linux)
+![linux](https://img.shields.io/badge/-Linux-grey?style=flat-square&logoColor=white&logo=linux)
 
 <!-- ### Badges -->
 
